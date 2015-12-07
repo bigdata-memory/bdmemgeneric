@@ -1,0 +1,10 @@
+.project
+.settings/
+.factorypath
+.classpath
+target/
+*~
+test-output/
+/*.dat
+/*.log
+
