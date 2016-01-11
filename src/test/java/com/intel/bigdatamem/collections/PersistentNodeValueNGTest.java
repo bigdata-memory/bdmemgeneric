@@ -22,7 +22,6 @@ import com.intel.bigdatamem.Utils;
 
 /**
  *
- * @author Wang, Gang {@literal <gang1.wang@intel.com>}
  *
  */
 
